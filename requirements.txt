@@ -105,7 +105,7 @@ PyPDF2==1.26.0
 pypiwin32==223
 python-dateutil==2.7.5
 pytz==2018.9
-pywin32==224
+pywin32==301
 pywinpty==0.5.5
 PyYAML==5.1
 pyzmq==17.1.2
